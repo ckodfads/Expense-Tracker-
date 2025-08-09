@@ -1,4 +1,3 @@
-<div align="center">
 # 💰 Expense Tracker App
 
 A simple and user-friendly web application to help you manage your personal finances.  
